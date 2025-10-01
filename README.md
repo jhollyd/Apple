@@ -1,2 +1,2 @@
 README.md (markdown) for Apple
-cs410 f25 proj2
+cs410 f25 classproj2
