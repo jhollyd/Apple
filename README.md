@@ -1,3 +1,2 @@
-Apple
-README.md (markdown) for Apple
-cs410 f25 classproj2
+# Apple
+README.md (markdown) for Apple f25 cs410 classproj2
